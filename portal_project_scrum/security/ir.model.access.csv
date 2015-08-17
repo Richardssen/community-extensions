@@ -1,0 +1,11 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_project_project_portal,res.groups,project_scrum.model_project_scrum_sprint,base.group_portal,1,0,0,0
+access_project_meeting_portal,res.groups,project_scrum.model_project_scrum_meeting,base.group_portal,1,0,0,0
+access_project_us_portal,res.groups,project_scrum.model_project_scrum_us,base.group_portal,1,0,0,0
+access_project_actor_portal,res.groups,project_scrum.model_project_scrum_actors,base.group_portal,1,0,0,0
+access_project_test_portal,res.groups,project_scrum.model_project_scrum_test,base.group_portal,1,0,0,0
+access_project_project_manager_public,res.groups,project_scrum.model_project_scrum_sprint,base.group_public,1,0,0,0
+access_project_meeting_public,res.groups,project_scrum.model_project_scrum_meeting,base.group_public,1,0,0,0
+access_project_us_public,res.groups,project_scrum.model_project_scrum_us,base.group_public,1,0,0,0
+access_project_actor_public,res.groups,project_scrum.model_project_scrum_actors,base.group_public,1,0,0,0
+access_project_test_public,res.groups,project_scrum.model_project_scrum_test,base.group_public,1,0,0,0
